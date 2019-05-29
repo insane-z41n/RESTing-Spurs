@@ -13,7 +13,8 @@ public class RosterResource {
 	@GET
 	@Produces(MediaType.TEXT_PLAIN)
 	public String getTest() {
-		return "TEST SPURS!";
+		return "GO SPURS!";
 	}
+	
 	
 }
